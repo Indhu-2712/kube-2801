@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: indhumrugan/kube1801:latest
+          image: indhumrugan/kube2222222222222222222222801:latest
           imagePullPolicy: Always
